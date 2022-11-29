@@ -1,0 +1,1 @@
+../build-Debug/cppwithcherno/pointer.cpp.o ../build-Debug/cppwithcherno/main.cpp.o ../build-Debug/cppwithcherno/array.cpp.o ../build-Debug/cppwithcherno/graph.cpp.o ../build-Debug/cppwithcherno/listinlist.cpp.o

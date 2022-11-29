@@ -1,0 +1,19 @@
+//
+//void learn_pointer();
+//
+//void learn_array();
+//
+//class Graph{
+//private:
+//	int nodes;
+//	list<int> *adjlist;
+//	
+//public:
+//Graph(int num_nodes);
+//void add_edge_between(int thisnode, int thatnode);
+//void list_iterator();
+//  };
+//  
+  
+//void lists();
+//void list_iterator(std::list<int> inter_list);

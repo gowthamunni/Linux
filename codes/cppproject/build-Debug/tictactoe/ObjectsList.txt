@@ -1,0 +1,1 @@
+../build-Debug/tictactoe/main.cpp.o ../build-Debug/tictactoe/tictactoe.cpp.o ../build-Debug/tictactoe/tryout.cpp.o

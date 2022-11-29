@@ -1,0 +1,1 @@
+../build-Debug/learncpp/up_up_20221113_learncpp_pointer.cpp.o ../build-Debug/learncpp/main.cpp.o

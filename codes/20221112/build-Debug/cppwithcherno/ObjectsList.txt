@@ -1,0 +1,1 @@
+../build-Debug/cppwithcherno/variables.cpp.o ../build-Debug/cppwithcherno/print.cpp.o ../build-Debug/cppwithcherno/pointer.cpp.o
