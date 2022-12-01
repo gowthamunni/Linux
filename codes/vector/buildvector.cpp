@@ -22,6 +22,10 @@ void push_back(const int& num)
 	vec_ptr[index] = num;
 	index++;
 	}
+int& operator[](const int& index)
+	{
+	return *(vec_ptr + index);
+	}
 
 ~Vector()
 	{
@@ -38,4 +42,6 @@ int main()
 	marks.push_back(90);
 
 	marks.at(2);
+	marks[2] = 100;
+	std::cout << marks[2] << std::endl;
 }
